@@ -4,6 +4,17 @@ Coursera: [AI Engineering Professional Certificate](https://www.coursera.org/pro
 
 Syllabus: [IBM AI Engineering](IBM-AI-Engineering.ipynb)
 
+## Certificates
+
+[IBM AI Engineering Professional Certificate](Coursera%202CP6LZTVXSGC.pdf)
+
+* [Machine Learning with Python](Coursera%20SG8FTPQYZN6A.pdf)
+* [Scalable Machine Learning on Big Data using Apache Spark](Coursera%20AQY45J4F23LH.pdf)
+* [Introduction to Deep Learning & Neural Networks with Keras](Coursera%20KF38F7KA8ELK.pdf)
+* [Deep Neural Networks with PyTorch](Coursera%20Z3YDVGBMT25B.pdf)
+* [Building Deep Learning Models with TensorFlow](Coursera%20ZUKB5RN7G5L5.pdf)
+* [AI Capstone Project with Deep Learning](Coursera%2036FTF6J66NXJ.pdf)
+
 ## About this Professional Certificate
 The rapid pace of innovation in Artificial Intelligence (AI) is creating enormous opportunity for transforming entire industries and our very existence. After competing this comprehensive 6 course Professional Certificate, you will get a practical understanding of Machine Learning and Deep Learning.
 
