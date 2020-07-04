@@ -15,6 +15,10 @@ Syllabus: [IBM AI Engineering](IBM-AI-Engineering.ipynb)
 * [Building Deep Learning Models with TensorFlow](Coursera%20ZUKB5RN7G5L5.pdf)
 * [AI Capstone Project with Deep Learning](Coursera%2036FTF6J66NXJ.pdf)
 
+## Notes and Summary
+
+This public repo contains only the syllabus of the Professional Certificate. The solved notebooks, quizzes answers and datasets are not included here.
+
 ## About this Professional Certificate
 The rapid pace of innovation in Artificial Intelligence (AI) is creating enormous opportunity for transforming entire industries and our very existence. After competing this comprehensive 6 course Professional Certificate, you will get a practical understanding of Machine Learning and Deep Learning.
 
